@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jdsob/Desktop/GAM_415/GAM_415_FinalProject/Content/materials/M_Projectile.uasset",
+				"C:/Users/jdsob/Desktop/GAM_415/GAM_415_FinalProject/Content/blueprints/BP_ColoredProjectile.uasset",
+				"C:/Users/jdsob/Desktop/GAM_415/GAM_415_FinalProject/Content/materials/M_ProjectileColor.uasset",
+				"C:/Users/jdsob/Desktop/GAM_415/GAM_415_FinalProject/Content/materials/M_ParamterCollection.uasset",
+				"C:/Users/jdsob/Desktop/GAM_415/GAM_415_FinalProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MK/QHTJU4N9ZFOEL2LSL37UL1.uasset"
+			]
+		}
+	]
+}
